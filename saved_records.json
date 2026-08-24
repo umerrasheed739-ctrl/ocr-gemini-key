@@ -1,0 +1,22 @@
+[
+    {
+        "raw_extracted_text": "Name: Abdul Sami RANA\nAGE: 28\nAddress: Gulberg Greens.\nPhone : 03485791339",
+        "metadata": {
+            "name": "Abdul Sami Rana",
+            "age": "28",
+            "address": "Gulberg Greens",
+            "phone_number": "03485791339",
+            "document_type": "Handwritten Document"
+        }
+    },
+    {
+        "raw_extracted_text": "Name: Abdul Sami RANA\nAGE: 28\nAddress: Gulberg Greens.\nPhone : 03485791339",
+        "metadata": {
+            "name": "Abdul Sami Rana",
+            "age": "28",
+            "address": "Gulberg Greens",
+            "phone_number": "03485791339",
+            "document_type": "Handwritten Note"
+        }
+    }
+]
